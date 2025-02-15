@@ -2,7 +2,7 @@
 Boas-vindas ao **STEM BOT**, um bot para Discord desenvolvido por integrantes do projeto [**STEM GIRLS**](https://www.linkedin.com/company/stemgirlsoficial/), uma iniciativa para incentivar mulheres na tecnologia!
 
 ## 📌 Sobre o Projeto
-O **STEM BOT** foi criado para facilitar a administração e interação dentro do servidor do Discord, oferecendo funcionalidades como moderação, comandos interativos e integração com APIs externas. Nosso objetivo é criar um ambiente mais inclusivo, divertido e organizado para comunidades tech!
+O **STEM BOT** foi criado para facilitar a administração e interação dentro do servidor do Discord, oferecendo funcionalidades como moderação, comandos interativos e integração com APIs externas. Nosso objetivo é criar um ambiente mais inclusivo, divertido e organizado para a comunidade tech!
 
 ## ✨ Funcionalidades
 - 🔹 **Moderação**: Comandos para gerenciar mensagens, usuários e permissões.
