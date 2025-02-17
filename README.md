@@ -23,8 +23,11 @@ O **STEM GIRLS** é um projeto que incentiva mulheres a entrarem no mundo da tec
 <br>
 🌎 [**STEM  GIRLS (Comunidade Twitter)**](https://x.com/i/communities/1885381572406530366)
 
----
 
+<div align="center">
 Feito com 💜 por mulheres na tecnologia! 🚀
-
+<br>
+<br>
+  
 ![Image](https://github.com/user-attachments/assets/8e60d105-de18-4500-a340-8547880560b5)
+</div>
